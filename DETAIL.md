@@ -11,7 +11,7 @@
     + [2.2. Self Improvement](#22-self-improvement)
     + [2.3. Documentation](#23-documentation)
   * [**3. My Projects**](#3-my-projects)
-    + [3.1. Open Source Projets](#31-open-source-projects)
+    + [3.1. Open Source Projects](#31-open-source-projects)
       - [3.1.1. Image Processing](#311-Image-Processing)
       - [3.1.2. Dithering](#312-Dithering)
       - [3.1.3. Interpolation](#313-Interpolation)
