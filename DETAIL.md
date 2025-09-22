@@ -93,7 +93,7 @@ Company | Entry Date | Leave Date | Form
 
 
 ## 3. My Projects
-### 3.1. Open Source Projets 
+### 3.1. Open Source Projects 
 #### 3.1.1. Image Processing
 https://github.com/wlghd28
 
