@@ -34,7 +34,7 @@ C/C++        | 4 년        | 4 년    |
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
 [프린트링크](https://github.com/wlghd28/resume/blob/master/DETAIL.md#42-PrintLink) | 2021-01    | 2022-04    | 계약직
-[가온셀](https://github.com/wlghd28resume/blob/master/DETAIL.md#43-GaonCell) | 2022-05 | 재직중 | 정규직
+[가온셀](https://github.com/wlghd28/resume/blob/master/DETAIL.md#43-GaonCell) | 2022-05 | 재직중 | 정규직
 
 
 ## [2. Introduction](https://github.com/wlghd28/resume/blob/master/DETAIL.md#2-introduction)
@@ -61,7 +61,7 @@ Project            | Skills           | Description
 [Task Board](https://github.com/wlghd28/resume/blob/master/DETAIL.md#318-Task-Board) | Javascript, HTML | 업무 관리 시스템
 
 
-### [3.2. University Projects](https://github.com/samchon/resume/blob/master/STORY.md#32-university-projects)
+### [3.2. University Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#32-university-projects)
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [자취세끼](https://github.com/wlghd28/resume/blob/master/DETAIL.md#321-자취세끼)  | Javascript, HTML, Kotlin             | 
@@ -69,7 +69,7 @@ Project            | Skills           | Description
 [업무관리 시스템](https://github.com/samchon/wlghd28/resume/blob/master/DETAIL.md#323-업무관리-시스템)           | Javascript, HTML | 
 
 
-## [4. Commercial Projects](https://github.com/wlghd28)
+## [4. Commercial Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#4-commercial-projects)
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 FreeLancer     | [Punching Machine](https://github.com/wlghd28/resume/blob/master/DETAIL.md#411-Punching-Machine)     | C/C++           | MFC GUI, OpenCV
