@@ -72,7 +72,7 @@ Project            | Skills           | Description
 ## [4. Commercial Projects](https://github.com/wlghd28)
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
-FreeLancer     | [Punching Machine](https://github.com/wlghd28)     | C/C++           | MFC GUI, OpenCV
+FreeLancer     | [Punching Machine](https://github.com/wlghd28/resume/blob/master/DETAIL.md#411-Punching-Machine)     | C/C++           | MFC GUI, OpenCV
 FreeLancer     | [Otical Switch](https://github.com/wlghd28)     | C/C++           | QT GUI, STM32 MCU
 FreeLancer     | [Stack Data Receiver](https://github.com/wlghd28)     | C           | STM32 MCU
 PrintLink      | [Iron plate printing system](https://github.com/wlghd28)     | C/C++           | MFC GUI
