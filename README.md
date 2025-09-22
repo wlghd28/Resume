@@ -41,14 +41,14 @@ Company | Entry Date | Leave Date | Form
 ### [2.1. For a lifetime](https://github.com/wlghd28/resume/blob/master/DETAIL.md#21-for-a-lifetime)
 2019 년 이래로 프로그래밍을 시작, n 년을 한결같이 매진해왔습니다.
 
-### [2.2. Self Improvement](https://github.com/wlghd28/resume/blob/master/DETAIL.md#22-improvement)
+### [2.2. Self Improvement](https://github.com/wlghd28/resume/blob/master/DETAIL.md#22-self-improvement)
 논리적인 사고력과 알고리즘의 구현능력이 떨어지지 않게 꾸준히 알고리즘 문제를 풀어가고 있습니다.
 
 ### [2.3. Documentation](https://github.com/wlghd28/resume/blob/master/DETAIL.md#23-documentation)
 프로젝트를 진행하면서 이슈사항들에 대하여 꾸준히 문서로 정리하며 문서를 작성해왔습니다.
 
-## [3. My Projects](https://github.com/wlghd28)
-### [3.1. Open Source Projects](https://github.com/wlghd28)
+## [3. My Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#3-my-projects)
+### [3.1. Open Source Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#31-open-source-projects)
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [Image Processing](https://github.com/wlghd28/resume/blob/master/DETAIL.md#311-Image-Processing) | C | 
