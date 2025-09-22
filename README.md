@@ -66,7 +66,7 @@ Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [자취세끼](https://github.com/wlghd28/resume/blob/master/DETAIL.md#321-자취세끼)  | Javascript, HTML, Kotlin             | 
 [온라인 학식주문 시스템](https://github.com/wlghd28/resume/blob/master/DETAIL.md#322-온라인-학식주문-시스템) | Javascript, HTML, Java | 
-[업무관리 시스템](https://github.com/samchon/wlghd28/resume/blob/master/DETAIL.md#323-업무관리-시스템)           | Javascript, HTML | 
+[업무관리 시스템](https://github.com/wlghd28/resume/blob/master/DETAIL.md#323-업무관리-시스템)           | Javascript, HTML | 
 
 
 ## [4. Commercial Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#4-commercial-projects)
