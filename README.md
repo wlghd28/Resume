@@ -23,7 +23,7 @@
 Skill        | Experiences | Careers | Note
 -------------|-------------|---------|-----------------------------------
 C/C++        | 4 년        | 4 년    | 
-
+Javascript   | 1 년        |         |
 
 ### [1.5. Experiences](https://github.com/wlghd28/resume/blob/master/DETAIL.md#15-experiences)
   - 프로그래밍 경험: 4 년
