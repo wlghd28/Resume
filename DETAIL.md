@@ -77,8 +77,8 @@ C/C++        | 4 년        | 4 년    |
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
-[프린트링크](https://github.com/wlghd28) | 2021-01    | 2022-04    | 계약직
-[가온셀](https://github.com/wlghd28) | 2022-05 | 재직중 | 정규직
+[프린트링크](#42-PrintLink) | 2021-01    | 2022-04    | 계약직
+[가온셀](#43-GaonCell) | 2022-05 | 재직중 | 정규직
 
 
 
