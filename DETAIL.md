@@ -180,7 +180,7 @@ https://github.com/wlghd28
 #### 4.1.2. Optical Switch
 https://github.com/wlghd28
 
-#### 4.1.3. Stack Data Receiver
+#### 4.1.3. Voltage Data Receiver
 https://github.com/wlghd28
 
 ### 4.2. PrintLink
