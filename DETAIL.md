@@ -132,17 +132,20 @@ https://github.com/wlghd28/Interpolation
 #### 3.1.4. GPGPU
 https://github.com/wlghd28/GPGPU
 
-이미지를 디더링 하면서 속도개선을 위해 GPGPU를 활용한 프로젝트 입니다.
-
+이미지를 디더링 하면서 속도개선을 위해 GPGPU를 활용한 프로젝트 입니다.\n
 OpenCL과 CUDA를 활용하여 프린트링크에서 활용하던 디더링 알고리즘 속도를 W x H(W = 이미지가로, H = 이미지세로)배 향상시키는 성과를 냈습니다.
 
 #### 3.1.5. Tensorflow
 https://github.com/wlghd28/Tensorflow
 
+AI를 활용하기 위해 Coral을 활용해보면서 개발했던 프로젝트입니다.
 
 #### 3.1.6. OpenCV
 https://github.com/wlghd28/OpenCV
 
+실시간 영상처리를 위해 OpenCV를 활용하여 개발했던 프로젝트입니다.
+1. 직선검출
+2. 원 검출
 
 #### 3.1.7. AvoidPoop
 https://github.com/wlghd28/C_Game_Project
