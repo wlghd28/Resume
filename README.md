@@ -51,12 +51,12 @@ Company | Entry Date | Leave Date | Form
 ### [3.1. Open Source Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#31-open-source-projects)
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
-[Image Processing](https://github.com/wlghd28/resume/blob/master/DETAIL.md#311-Image-Processing) | C | 
-[Dithering](https://github.com/wlghd28/resume/blob/master/DETAIL.md#312-Dithering) | C | 
-[Interpolation](https://github.com/wlghd28/resume/blob/master/DETAIL.md#313-Interpolation) | C | 
-[GPGPU](https://github.com/wlghd28/resume/blob/master/DETAIL.md#314-GPGPU) | C/C++ | 
-[Tensorflow](https://github.com/wlghd28/resume/blob/master/DETAIL.md#315-Tensorflow) | C |
-[OpenCV](https://github.com/wlghd28/resume/blob/master/DETAIL.md#316-OpenCV) | C/C++ | 
+[Image Processing](https://github.com/wlghd28/resume/blob/master/DETAIL.md#311-Image-Processing) | C | 이미지처리
+[Dithering](https://github.com/wlghd28/resume/blob/master/DETAIL.md#312-Dithering) | C | 디더링
+[Interpolation](https://github.com/wlghd28/resume/blob/master/DETAIL.md#313-Interpolation) | C | 보간법 
+[GPGPU](https://github.com/wlghd28/resume/blob/master/DETAIL.md#314-GPGPU) | C/C++ | GPU 연산
+[Tensorflow](https://github.com/wlghd28/resume/blob/master/DETAIL.md#315-Tensorflow) | C | 
+[OpenCV](https://github.com/wlghd28/resume/blob/master/DETAIL.md#316-OpenCV) | C/C++ | 영상처리
 [AvoidPoop](https://github.com/wlghd28/resume/blob/master/DETAIL.md#317-AvoidPoop) | C | 똥피하기 게임
 [Task Board](https://github.com/wlghd28/resume/blob/master/DETAIL.md#318-Task-Board) | Javascript, HTML | 업무 관리 시스템
 
