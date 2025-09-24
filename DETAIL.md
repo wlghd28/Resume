@@ -159,7 +159,7 @@ https://github.com/wlghd28/C_Game_Project
 #### 3.1.8. Task Board
 https://github.com/wlghd28/Node.js
 
-Nodejs로 웹 서버 시스템으로 개발한 업무관리 시스템입니다.
+Nodejs를 활용하여 웹 서버 시스템으로 개발한 업무관리 시스템입니다.
 
 ### 3.2. University Projects
 #### 3.2.1. 자취세끼
