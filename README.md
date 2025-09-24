@@ -74,7 +74,7 @@ Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 FreeLancer     | [Punching Machine](https://github.com/wlghd28/resume/blob/master/DETAIL.md#411-Punching-Machine)     | C/C++           | MFC GUI, OpenCV
 FreeLancer     | [Otical Switch](https://github.com/wlghd28/resume/blob/master/DETAIL.md#412-Optical-Switch)     | C/C++           | QT GUI, STM32 MCU
-FreeLancer     | [Stack Data Receiver](https://github.com/wlghd28/resume/blob/master/DETAIL.md#413-Stack-Data-Receiver)     | C           | STM32 MCU
+FreeLancer     | [Voltage Data Receiver](https://github.com/wlghd28/resume/blob/master/DETAIL.md#413-Voltage-Data-Receiver)     | C           | STM32 MCU
 PrintLink      | [Iron plate printing system](https://github.com/wlghd28/resume/blob/master/DETAIL.md#421-Iron-plate-printing-system)     | C/C++           | MFC GUI
 PrintLink      | [Image Test Printer](https://github.com/wlghd28/resume/blob/master/DETAIL.md#422-Image-Test-Printer)   | C/C++                 | MFC GUI, Image Processing
 GaonCell       | [DMFC System](https://github.com/wlghd28/resume/blob/master/DETAIL.md#431-DMFC-System) | C/C++                 | QT GUI
