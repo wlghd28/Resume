@@ -28,7 +28,7 @@
     + [4.1. FreeLancer](#41-FreeLancer)
       - [4.1.1. Punching Machine](#411-Puncing-Machine)
       - [4.1.2. Optical Switch](#412-Optical-Switch)
-      - [4.1.3. Stack Data Receiver](#413-Stack-Data-Receiver)
+      - [4.1.3. Voltage Data Receiver](#413-Voltage-Data-Receiver)
     + [4.2. PrintLink](#42-PrintLink)
       - [4.2.1. Iron plate printing system](#421-Iron-plate-printing-system)
       - [4.2.1. Image Test Printer](#422-Image-Test-Printer)
