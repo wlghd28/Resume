@@ -262,8 +262,8 @@ https://github.com/wlghd28/Image_Test_Printer
     - C/C++
  - 설명
     - 윈도우 어플리케이션 (MFC GUI)
-    - Image Processing
-    - Dithering
+    - [Image Processing](https://github.com/wlghd28/Image_Processing)
+    - [Dithering](https://github.com/wlghd28/Dithering)
    
 
 
