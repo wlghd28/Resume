@@ -350,7 +350,8 @@ https://github.com/wlghd28/DMFC_Monitor
 DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
 
 - 개발 기여도 : 50%
- - 개발 기간 : 2023.03 ~ 2023.06 (4개월) (초안) 
+ -  PC 개발 기간 : 2023.03 ~ 2023.06 (4개월)
+ - LCD 개발 기간 : 2025.05 ~ 2025.08 (3개월)
  - 유지보수 기간 : 2023. 06 ~ 진행중
  - 작성 언어
     - C/C++
@@ -359,6 +360,8 @@ DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
     - TCP/IP 통신 사용
     - HDLC 프로토콜 사용
     - 그래프 라이브러리(QCustomPlot) 사용
+    - LCD 어플리케이션 (Arduino, VS Code)
+    - SquareLine Tool 사용 (UI 구현)
    
 
 #### 4.3.2. Stack Test System
