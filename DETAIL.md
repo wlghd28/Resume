@@ -239,7 +239,7 @@ https://github.com/wlghd28/Printing_Q_Manager
 철판 인쇄 시스템 운용 프로그램  
 
 - 개발 기여도 : 40%
- - 개발 기간 : 2024.06 ~ 2024.07 (1개월)
+ - 개발 기간 : 2021.03 ~ 2021.09 (7개월)
  - 작성 언어
     - C/C++
  - 설명
@@ -252,7 +252,20 @@ https://github.com/wlghd28/Printing_Q_Manager
 
 
 #### 4.2.2. Image Test Printer
-https://github.com/wlghd28/Image_Test_Printer
+https://github.com/wlghd28/Image_Test_Printer  
+
+이미지를 테스트하기 위한 용도의 프린터 장비 운용 프로그램  
+
+- 개발 기여도 : 80%
+ - 개발 기간 : 2021.10 ~ 2022.01 (4개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (MFC GUI)
+    - Image Processing
+    - Dithering
+   
+
 
 ### 4.3. GaonCell
 #### 4.3.1. DMFC System
