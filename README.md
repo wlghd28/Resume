@@ -39,7 +39,7 @@ Company | Entry Date | Leave Date | Form
 
 ## [2. Introduction](https://github.com/wlghd28/resume/blob/master/DETAIL.md#2-introduction)
 ### [2.1. For a lifetime](https://github.com/wlghd28/resume/blob/master/DETAIL.md#21-for-a-lifetime)
-2019 년 이래로 프로그래밍을 시작, n 년을 한결같이 매진해왔습니다.
+2019 년 이래로 프로그래밍을 시작, 6 년을 한결같이 매진해왔습니다.
 
 ### [2.2. Self Improvement](https://github.com/wlghd28/resume/blob/master/DETAIL.md#22-self-improvement)
 논리적인 사고력과 알고리즘의 구현능력이 떨어지지 않게 꾸준히 알고리즘 문제를 풀어가고 있습니다.
