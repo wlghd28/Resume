@@ -176,6 +176,7 @@ https://github.com/wlghd28/APL-WMS-Quick-Look
 ### 4.1. FreeLancer
 #### 4.1.1. Punching Machine
 https://github.com/wlghd28/Punching_Machine  
+
 영상처리를 통해 펀칭기의 타점을 제어하는 프로그램
 
  - 개발 기여도 : 100%
@@ -194,6 +195,7 @@ https://github.com/wlghd28/Punching_Machine
 
 #### 4.1.2. Optical Switch  
 https://github.com/wlghd28/Optical_Switch    
+
 광학 측정 장비로부터 데이터를 받아 모니터링을 하는 프로그램
 
  - 개발 기여도 : 80%
@@ -214,6 +216,7 @@ https://github.com/wlghd28/Optical_Switch
 
 #### 4.1.3. Voltage Data Receiver  
 https://github.com/wlghd28/Voltage_Data_Receiver   
+
 LTC6806 Fuel Cell Monitor 로부터 데이터를 읽어오는 프로그램
 
 - 개발 기여도 : 80%
