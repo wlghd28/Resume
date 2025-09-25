@@ -269,9 +269,111 @@ https://github.com/wlghd28/Image_Test_Printer
 
 ### 4.3. GaonCell
 #### 4.3.1. DMFC System
-https://github.com/wlghd28/DMFC_Monitor
+https://github.com/wlghd28/DMFC_Monitor  
+
+DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
+
+- 개발 기여도 : 50%
+ - 개발 기간 : 2023.03 ~ 2023.06 (4개월) (초안) 
+ - 유지보수 기간 : 2023. 06 ~ 진행중
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (QT GUI)
+    - TCP/IP 통신 사용
+    - HDLC 사용   - MCU 펌웨어 (STM32)
+    - TCP/IP 통신 사용
+    - USB 통신 사용
+    - TPL1401 (Digipot) 사용
+    - ESP32 사용  
+
+해당 프로젝트를 하면서 네트워크 통신 프로토콜을 직접 설계하는 경험을 했습니다. 윈도우 어플리케이션(QT GUI), MCU(STM32), ESP32 모듈 과의 통신을 위해 주고받는 명령 체계와 데이터 구조에 대해서 설계 하였습니다.  
+통신 데이터를 처리하기 위해 아스키 데이터를 파싱하는 부분에서 예외처리 때문에 어려웠었습니다. 개발의 속도를 위해 구현되어 있는 코드를 요구할 수도 있었지만 온전히 제 힘으로 구현을 해보고 싶었고, 한 번 구현을 잘 해놓으면 추후에도 써먹을 기회가 많이 생길 것 같아서 2일 동안 매달렸었습니다. 결국 구현을 해냈고 저의 개발 능력에서 구현 능력이 크게 올라갔던 갚진 경험을 얻었습니다.  
+
+#### 4.1.3. Voltage Data Receiver  
+https://github.com/wlghd28/Voltage_Data_Receiver   
+
+LTC6806 Fuel Cell Monitor 로부터 데이터를 읽어오는 프로그램
+
+- 개발 기여도 : 80%
+ - 개발 기간 : 2024.06 ~ 2024.07 (1개월)
+ - 작성 언어
+    - C
+ - 설명
+    - MCU 펌웨어 (STM32)
+    - LTC6806 (Fuel Cell Monitor) 사용
+    - SPI 통신 사용  
+
+해당 프로젝트를 하면서 기억에 남았던 것은 비트연산 입니다. LTC6806 모듈과 SPI 통신을 하기 위해서는 명령체계가 비트연산으로 되어있었기 때문에 2바이트 메모리에 비트연산을 했었습니다. 비트연산을 할 때 비트 연산자를 활용하면 속도가 매우 빠르지만 비트필드를 사용하면 속도가 이론상으로 알던 만큼 빠르지 않다는 것을 알게 됐습니다.  
+1. 비트연산은 연산자를 활용하여 사용할 것.
+2. 비트필드는 메모리의 절약을 위해 사용하는 것이 아닌 이상 속도면에서는 유리한 것이 없다.  
+
+### 4.2. PrintLink
+#### 4.2.1. Iron plate printing system
+https://github.com/wlghd28/Printing_Q_Manager
+
+철판 인쇄 시스템 운용 프로그램  
+
+- 개발 기여도 : 40%
+ - 개발 기간 : 2021.03 ~ 2021.09 (7개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (MFC GUI)
+    - TCP/IP 통신 사용
+    - [ActiveX](https://github.com/wlghd28/ActiveX) 사용
+    - Adam IO 사용
+    - 실제 잉크 잔량을 프로그램에서 보여주기 위해 데이터 스케일링 구현
+
+
+
+#### 4.2.2. Image Test Printer
+https://github.com/wlghd28/Image_Test_Printer  
+
+이미지를 테스트하기 위한 용도의 프린터 장비 운용 프로그램  
+
+- 개발 기여도 : 80%
+ - 개발 기간 : 2021.10 ~ 2022.01 (4개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (MFC GUI)
+    - [Image Processing](https://github.com/wlghd28/Image_Processing)
+    - [Dithering](https://github.com/wlghd28/Dithering)
+   
+
+
+### 4.3. GaonCell
+#### 4.3.1. DMFC System
+https://github.com/wlghd28/DMFC_Monitor  
+
+DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
+
+- 개발 기여도 : 50%
+ - 개발 기간 : 2023.03 ~ 2023.06 (4개월) (초안) 
+ - 유지보수 기간 : 2023. 06 ~ 진행중
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (QT GUI)
+    - TCP/IP 통신 사용
+    - HDLC 프로토콜 사용
+    - 그래프 라이브러리(QCustomPlot) 사용
+   
 
 #### 4.3.2. Stack Test System
-https://github.com/wlghd28/Stack_Validator
+https://github.com/wlghd28/Stack_Validator  
 
+연료전지 스택 성능 테스트 프로그램
 
+- 개발 기여도 : 100%
+ - 개발 기간 : 2023.07 ~ 2024.01 (7개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (QT GUI)
+    - TCP/IP 통신 사용
+    - HDLC 프로토콜 사용
+    - RS232 통신 사용
+    - RS485 통신 사용
+    - 10개 이상의 다중 멀티스레드 사용
