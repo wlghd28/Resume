@@ -245,7 +245,7 @@ https://github.com/wlghd28/Printing_Q_Manager
  - 설명
     - 윈도우 어플리케이션 (MFC GUI)
     - TCP/IP 통신 사용
-    - ActiveX(https://github.com/wlghd28/ActiveX) 사용
+    - [ActiveX](https://github.com/wlghd28/ActiveX) 사용
     - Adam IO 사용
     - 실제 잉크 잔량을 프로그램에서 보여주기 위해 데이터 스케일링 구현
 
