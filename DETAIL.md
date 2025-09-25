@@ -157,7 +157,7 @@ https://github.com/wlghd28/C_Game_Project
 4. 플레이어의 움직임을 얼음판에서 미끄러지듯이 구현
 
 #### 3.1.8. Task Board
-https://github.com/wlghd28/Node.js
+https://github.com/wlghd28/Task_Board
 
 Nodejs를 활용하여 웹 서버 시스템으로 개발한 업무관리 시스템입니다.
 
@@ -175,26 +175,26 @@ https://github.com/wlghd28/APL-WMS-Quick-Look
 ## 4. Commercial Projects
 ### 4.1. FreeLancer
 #### 4.1.1. Punching Machine
-https://github.com/wlghd28
+https://github.com/Punching_Machine
 
 #### 4.1.2. Optical Switch
-https://github.com/wlghd28
+https://github.com/Optical_Switch
 
 #### 4.1.3. Voltage Data Receiver
-https://github.com/wlghd28
+https://github.com/Voltage_Data_Receiver
 
 ### 4.2. PrintLink
 #### 4.2.1. Iron plate printing system
-https://github.com/wlghd28
+https://github.com/Printing_Q_Manager
 
 #### 4.2.2. Image Test Printer
-https://github.com/wlghd28
+https://github.com/Image_Test_Printer
 
 ### 4.3. GaonCell
 #### 4.3.1. DMFC System
-https://github.com/wlghd28
+https://github.com/DMFC_Monitor
 
 #### 4.3.2. Stack Test System
-https://github.com/wlghd28
+https://github.com/Stack_Validator
 
 
