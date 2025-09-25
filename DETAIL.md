@@ -186,7 +186,7 @@ https://github.com/wlghd28/Punching_Machine
  - 설명
     - 윈도우 어플리케이션 (MFC GUI)
     - OpenCV 라이브러리 사용
-    - NCM2, NMF 라이브러리 사용
+    - NMC2, NMF 라이브러리 사용
     - 하드웨어 IO 통신 사용  
 
 제가 처음으로 전체적으로 진행 및 개발했던 프로젝트로써, 고생을 꽤나 했던 프로젝트입니다.
@@ -235,6 +235,21 @@ LTC6806 Fuel Cell Monitor 로부터 데이터를 읽어오는 프로그램
 ### 4.2. PrintLink
 #### 4.2.1. Iron plate printing system
 https://github.com/wlghd28/Printing_Q_Manager
+
+철판 인쇄 시스템 운용 프로그램  
+
+- 개발 기여도 : 40%
+ - 개발 기간 : 2024.06 ~ 2024.07 (1개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (MFC GUI)
+    - TCP/IP 통신 사용
+    - ActiveX(https://github.com/wlghd28/ActiveX) 사용
+    - Adam IO 사용
+    - 실제 잉크 잔량을 프로그램에서 보여주기 위해 데이터 스케일링 구현
+
+
 
 #### 4.2.2. Image Test Printer
 https://github.com/wlghd28/Image_Test_Printer
