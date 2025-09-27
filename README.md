@@ -77,6 +77,7 @@ FreeLancer     | [Otical Switch](https://github.com/wlghd28/resume/blob/master/D
 FreeLancer     | [Voltage Data Receiver](https://github.com/wlghd28/resume/blob/master/DETAIL.md#413-Voltage-Data-Receiver)     | C           | STM32 MCU
 PrintLink      | [Iron plate printing system](https://github.com/wlghd28/resume/blob/master/DETAIL.md#421-Iron-plate-printing-system)     | C/C++           | MFC GUI
 PrintLink      | [Image Test Printer](https://github.com/wlghd28/resume/blob/master/DETAIL.md#422-Image-Test-Printer)   | C/C++                 | MFC GUI, Image Processing
+PrintLink      | [Multi Color](https://github.com/wlghd28/resume/blob/master/DETAIL.md#423-Multi-Color)   | C/C++                 | MFC GUI, GPGPU
 GaonCell       | [DMFC System](https://github.com/wlghd28/resume/blob/master/DETAIL.md#431-DMFC-System) | C/C++                 | QT GUI
 GaonCell       | [Stack Test System](https://github.com/wlghd28/resume/blob/master/DETAIL.md#432-Stack-Test-System)         | C/C++     | QT GUI
 
