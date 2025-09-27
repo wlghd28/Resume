@@ -10,11 +10,11 @@
   - Github: https://github.com/wlghd28
 
 ### [1.2. Education](https://github.com/wlghd28/resume/blob/master/DETAIL.md#12-education)
-가천대학교, 2015-03 ~ 2020-03
+가천대학교, 2015-03 ~ 2021-02
 
   - 주전공: 컴퓨터공학
   - 자격증: 정보처리기사
-  - 학점: 3.8 / 4.50
+  - 학점: 3.77 / 4.50
 
 ### [1.3. Awards](https://github.com/wlghd28/resume/blob/master/DETAIL.md#13-awards)
 -
