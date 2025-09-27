@@ -134,7 +134,7 @@ https://github.com/wlghd28/Interpolation
 https://github.com/wlghd28/GPGPU
 
 이미지를 디더링 하면서 속도개선을 위해 GPGPU를 활용한 프로젝트 입니다.  
-OpenCL과 CUDA를 활용하여 프린트링크에서 활용하던 디더링 알고리즘 속도를 W x H(W = 이미지가로, H = 이미지세로)배 향상시키는 성과를 냈습니다.
+OpenCL과 CUDA를 활용하여 프린트링크에서 활용하던 이미지 색조변경 알고리즘 속도를 W x H(W = 이미지가로, H = 이미지세로)배 향상시키는 성과를 냈습니다.
 
 #### 3.1.5. Tensorflow
 https://github.com/wlghd28/Tensorflow
