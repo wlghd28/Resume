@@ -31,7 +31,8 @@
       - [4.1.3. Voltage Data Receiver](#413-Voltage-Data-Receiver)
     + [4.2. PrintLink](#42-PrintLink)
       - [4.2.1. Iron plate printing system](#421-Iron-plate-printing-system)
-      - [4.2.1. Image Test Printer](#422-Image-Test-Printer)
+      - [4.2.2. Image Test Printer](#422-Image-Test-Printer)
+      - [4.2.3. Multi Color](#423-Multi-Color)
     + [4.3. GaonCell](#43-GaonCell)
       - [4.3.1. DMFC System](#431-DMFC-System)
       - [4.3.2. Stack Test System](#432-Stack-Test-System)
@@ -340,6 +341,20 @@ https://github.com/wlghd28/Image_Test_Printer
     - 윈도우 어플리케이션 (MFC GUI)
     - [Image Processing](https://github.com/wlghd28/Image_Processing)
     - [Dithering](https://github.com/wlghd28/Dithering)
+
+#### 4.2.3. Multi Color
+https://github.com/wlghd28/Multi_Color
+
+이미지의 색조변경을 위한 프로그램
+
+- 개발 기여도 : 100%
+ - 개발 기간 : 2021.09 ~ 2021.10 (1개월)
+ - 작성 언어
+    - C/C++
+ - 설명
+    - 윈도우 어플리케이션 (MFC GUI)
+    - [Image Processing](https://github.com/wlghd28/Image_Processing)
+    - [GPGPU](https://github.com/wlghd28/GPGPU)
    
 
 
