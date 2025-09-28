@@ -343,4 +343,4 @@ https://github.com/wlghd28/Stack_Validator
     - HDLC 프로토콜 사용
     - RS232 통신 사용
     - RS485 통신 사용
-    - 10개 이상의 다중 멀티스레드 사용
+    - 멀티스레드 사용
