@@ -339,7 +339,6 @@ https://github.com/wlghd28/Stack_Validator
     - C/C++
  - 설명
     - 윈도우 어플리케이션 (QT GUI)
-    - TCP/IP 통신 사용
     - HDLC 프로토콜 사용
     - RS232 통신 사용
     - RS485 통신 사용
