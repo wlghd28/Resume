@@ -326,7 +326,7 @@ DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
     - HDLC 프로토콜 사용
     - 그래프 라이브러리(QCustomPlot) 사용
     - LCD 어플리케이션 (ESP32 8048S070)
-    - SquareLine Tool 사용 (UI 구현)
+    - SquareLine Tool 사용 (LCD UI 구현)
 
 #### 4.3.2. Stack Test System
 https://github.com/wlghd28/Stack_Validator  
