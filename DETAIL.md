@@ -186,7 +186,7 @@ https://github.com/wlghd28/Punching_Machine
     - C/C++
  - 설명
     - 윈도우 어플리케이션 (MFC GUI)
-      OpenCV 라이브러리 사용
+    - OpenCV 라이브러리 사용
     - NMC2, NMF 라이브러리 사용
     - 하드웨어 IO 통신 사용  
 
