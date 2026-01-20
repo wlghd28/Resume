@@ -20,6 +20,7 @@
       - [3.1.6. OpenCV](#316-OpenCV)
       - [3.1.7. AvoidPoop](#317-AvoidPoop)
       - [3.1.8. Task Board](#318-Task-Board)
+      - [3.1.9. OTA_Update](#319-OTA-Update)
     + [3.2. University Projects](#32-university-projects)
       - [3.2.1. 자취세끼](#321-자취세끼)
       - [3.2.2. 온라인 학식주문 시스템](#322-온라인-학식주문-시스템)
@@ -161,6 +162,11 @@ https://github.com/wlghd28/C_Game_Project
 https://github.com/wlghd28/Task_Board
 
 Nodejs를 활용하여 웹 서버 시스템으로 개발한 업무관리 시스템입니다.
+
+#### 3.1.9. OTA Update
+https://github.com/wlghd28/OTA_Update
+
+QT를 활용한 PC 프로그램과 ESP32를 활용한 LCD 프로그램간의 원격 업데이트 기능 구현입니다.
 
 ### 3.2. University Projects
 #### 3.2.1. 자취세끼
