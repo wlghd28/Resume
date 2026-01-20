@@ -59,7 +59,7 @@ Project            | Skills           | Description
 [OpenCV](https://github.com/wlghd28/resume/blob/master/DETAIL.md#316-OpenCV) | C/C++ | 영상처리
 [AvoidPoop](https://github.com/wlghd28/resume/blob/master/DETAIL.md#317-AvoidPoop) | C | 장애물피하기 게임
 [Task Board](https://github.com/wlghd28/resume/blob/master/DETAIL.md#318-Task-Board) | Javascript, HTML | 업무관리 시스템
-
+[OTA_Update](https://github.com/wlghd28/resume/blob/master/DETAIL.md#319-OTA-Update) | C/C++ | 원격 프로그램 업데이트 (Over The Air)
 
 ### [3.2. University Projects](https://github.com/wlghd28/resume/blob/master/DETAIL.md#32-university-projects)
 Project            | Skills           | Description
