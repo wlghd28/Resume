@@ -291,7 +291,7 @@ https://github.com/wlghd28/Image_Test_Printer
     - [Dithering](https://github.com/wlghd28/Dithering)
     - [Interpolation](https://github.com/wlghd28/Interpolation)
     - 시스템 구조도
-    - <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/SystemStructure.png" width="512" height="342" />
+    - <img src="https://github.com/wlghd28/Image_Test_Printer/blob/main/SystemStructure.png" width="650" height="433" />
   
 일본의 R 사와 함께 했던 프로젝트입니다. 제가 부여받은 개발 내용은 이미지를 테스트하기 위한 프린터 장비를 제어하는 사용자 GUI 프로그램 구현이었습니다.  
 프린터 장비를 제어하는 부분과 이미지 프로세싱에 대한 부분이 전부 들어가야 하는 프로그램이 필요했습니다. 저는 장비 제어의 일부분의 기능과 이미지 프로세싱 쪽 알고리즘을 구현했습니다.  
