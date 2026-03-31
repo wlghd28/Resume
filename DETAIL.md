@@ -256,7 +256,7 @@ https://github.com/wlghd28/Printing_Q_Manager
     - Adam IO 사용
     - 실제 현장 데이터(잉크잔량, 온도, 압력 등)을 프로그램에서 보여주기 위해 데이터 스케일링 구현
     - 시스템 구조도
-    - <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/SystemStructure.png" width="650" height="600" />
+      <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/SystemStructure.png" width="650" height="600" />
 
 대형 철강기업 D기업과 진행했던 프로젝트로 목표는 끊임없이 이어지는 철판에 원하는 이미지를 인쇄시키는 것이었습니다. 제가 처음 투입됐던 프로젝트이자 지금까지 개발해 오면서 가장 규모가 컸던 프로젝트입니다. 실제로 제가 구현한 프로그램이 현장에서 돌아가는 데 쓰여야 했기 때문에 부담 상당히 많이 됐었습니다.  
 제가 맡았던 개발 부분은 전체적인 시스템 운용을 위한 사용자 GUI 프로그램을 만드는 것.  
