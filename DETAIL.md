@@ -253,7 +253,7 @@ https://github.com/wlghd28/Printing_Q_Manager
     - 윈도우 어플리케이션 (MFC GUI)
     - TCP/IP 통신 사용
     - [ActiveX](https://github.com/wlghd28/ActiveX) 사용
-    - Adam IO 사용
+    - IO 통신
     - 실제 현장 데이터(잉크잔량, 온도, 압력 등)을 프로그램에서 보여주기 위해 데이터 스케일링 구현
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/SystemStructure.png" width="650" height="600" />
@@ -290,6 +290,7 @@ https://github.com/wlghd28/Image_Test_Printer
     - [Image Processing](https://github.com/wlghd28/Image_Processing)
     - [Dithering](https://github.com/wlghd28/Dithering)
     - [Interpolation](https://github.com/wlghd28/Interpolation)
+    - IO 통신
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Image_Test_Printer/blob/main/SystemStructure.png" width="650" height="433" />
   
