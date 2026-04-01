@@ -214,9 +214,11 @@ https://github.com/wlghd28/Optical_Switch
     - 윈도우 어플리케이션 (QT GUI)
     - MCU 펌웨어 (STM32)
     - TCP/IP 통신 사용
-    - USB 통신 사용
+    - USB Serial 통신 사용
     - TPL1401 (Digipot) 사용
     - ESP32 사용
+    - SPI 통신 사용
+    - I2C 통신 사용
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Optical_Switch/blob/main/SystemStructure.jpg" width="650" height="419" />
 
