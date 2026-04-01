@@ -194,7 +194,9 @@ https://github.com/wlghd28/Punching_Machine
     - 윈도우 어플리케이션 (MFC GUI)
     - OpenCV 라이브러리 사용
     - NMC2, NMF 라이브러리 사용
-    - 하드웨어 IO 통신 사용  
+    - 하드웨어 IO 통신 사용
+    - 시스템 구조도
+    - <img src="https://github.com/wlghd28/Punching_Machine/blob/main/SystemStructure.jpg" width="650" height="367" />
 
 제가 처음 전체적으로 진행 및 개발했던 프로젝트로써, 고생을 꽤 했던 프로젝트입니다.
 라이브러리를 통해 읽어 들인 이미지 데이터를 화면에 실시간으로 뿌림과 동시에 이미지의 줌 인, 줌 아웃을 구현하는 게 어려웠습니다. 처음에 이미지를 확대할 시 그대로 데이터를 업스케일링 하는 식으로 구현했더니 특정 수치가 넘어가도록 확대면 메모리 초과 및 속도 면에서 심각하게 성능이 내려가는 문제가 있었습니다.   
