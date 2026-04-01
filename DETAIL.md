@@ -375,7 +375,9 @@ LTC6806 Fuel Cell Monitor로부터 데이터를 읽어오는 프로그램
  - 설명
     - MCU 펌웨어 (STM32)
     - LTC6806 (Fuel Cell Monitor) 사용
-    - SPI 통신 사용  
+    - SPI 통신 사용
+    - 시스템 구조도
+    - <img src="https://github.com/wlghd28/Voltage_Data_Receiver/blob/main/SystemStructure.jpg" width="650" height="310" />
 
 해당 프로젝트를 하면서 기억에 남았던 것은 비트연산입니다. LTC6806 모듈과 SPI 통신을 하기 위해서는 명령체계가 비트연산으로 되어있었기 때문에 2바이트 메모리에 비트연산을 했었습니다. 비트연산을 할 때 비트 연산자를 활용하면 속도가 매우 빠르지만, 비트필드를 사용하면 속도가 이론상으로 알던 만큼 빠르지 않다는 것을 알게 됐습니다.  
   1) 비트연산은 연산자를 활용하여 사용할 것.
