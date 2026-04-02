@@ -327,6 +327,10 @@ DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
     - SquareLine Tool 사용 (LCD UI 구현)
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/DMFC_Monitor/blob/main/SystemStructure.jpg" width="650" height="725" />
+    - 클래스 다이어그램(PC)
+    - <img src="https://github.com/wlghd28/DMFC_Monitor/blob/main/ClassDiagram_PC.png" width="650" height="497" />
+    - 클래스 다이어그램(LCD)
+    - <img src="https://github.com/wlghd28/DMFC_Monitor/blob/main/ClassDiagram_LCD.png" width="650" height="437" />
 
 저로서는 경험이 없던 프로젝트로 한층 발전할 수 있는 계기가 되었습니다. 개발 내용은 DMFC 시스템을 제어하는 제어 보드와 통신하여 전체 시스템을 운용하는 사용자 PC, LCD GUI 프로그램 개발이었습니다.  
 PC 쪽에서 명령을 보내고 데이터를 요청하는 식이었기 때문에 통신 데이터의 안정화가 필요했었습니다. 초반에는 특정 명령을 사용자가 신호를 주는 대로 바로 데이터를 날려 보냈기에 프로그램 내부에서 자동으로 보내는 데이터 신호와 겹쳐서 충돌이 나는 이슈가 있었습니다. 이를 해결한 방법으로는 데이터를 보내는 주기를 통일시키고 사용자가 명령을 내리면 특정 변수(현재 명령상태 값)에 명령 값을 저장하고 주기적으로 데이터를 보내는 타이머 안에서 명령상태 값에 따라 조건 분기하여 데이터를 보내는 식으로 해결했습니다. 이 방법을 적용한 결과 명령이 충돌 나서 먹히는 경우가 아예 없어졌으며 통신 기능이 안정적으로 동작하게 되었습니다. 현재 2025년까지 유지보수를 하면서도 통신 부분에서는 버그가 발생한 적이 없습니다.  
