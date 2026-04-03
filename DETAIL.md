@@ -196,6 +196,8 @@ https://github.com/wlghd28/Punching_Machine
     - 하드웨어 IO 통신 사용
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Punching_Machine/blob/main/SystemStructure.jpg" width="650" height="367" />
+    - 클래스 다이어그램
+    - <img src="https://github.com/wlghd28/Punching_Machine/blob/main/ClassDiagram.png" width="650" height="323" />
 
 제가 처음 전체적으로 진행 및 개발했던 프로젝트로써, 고생을 꽤 했던 프로젝트입니다.
 라이브러리를 통해 읽어 들인 이미지 데이터를 화면에 실시간으로 뿌림과 동시에 이미지의 줌 인, 줌 아웃을 구현하는 게 어려웠습니다. 처음에 이미지를 확대할 시 그대로 데이터를 업스케일링 하는 식으로 구현했더니 특정 수치가 넘어가도록 확대면 메모리 초과 및 속도 면에서 심각하게 성능이 내려가는 문제가 있었습니다.   
@@ -222,6 +224,10 @@ https://github.com/wlghd28/Optical_Switch
     - I2C 통신 사용
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Optical_Switch/blob/main/SystemStructure.jpg" width="650" height="419" />
+    - 클래스 다이어그램(MCU)
+    - <img src="https://github.com/wlghd28/Optical_Switch/blob/main/ClassDiagram_Controller.png" width="650" height="315" />
+    - 클래스 다이어그램(PC)
+    - <img src="https://github.com/wlghd28/Optical_Switch/blob/main/ClassDiagram_UI.png" width="650" height="199" />
 
 해당 프로젝트를 하면서 네트워크 통신 프로토콜을 직접 설계하는 경험을 했습니다. 윈도우 어플리케이션(QT GUI), MCU(STM32), ESP32 모듈과의 통신을 위해 주고받는 명령 체계와 데이터 구조에 대해서 설계하였습니다.  
 통신 데이터를 처리하기 위해 아스키 데이터를 파싱하는 부분에서 예외 처리 때문에 어려웠었습니다. 개발의 속도를 위해 구현된 코드를 요구할 수도 있었지만, 온전히 제 힘으로 구현을 해보고 싶었고, 한 번 구현을 잘해놓으면 다음에도 써먹을 기회가 많이 생길 것 같아서 2일 동안 매달렸었습니다. 결국 구현을 해냈고 저의 개발 능력에서 구현 능력이 크게 올라갔던 값진 경험을 얻었습니다.  
