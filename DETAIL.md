@@ -250,6 +250,8 @@ https://github.com/wlghd28/Printing_Q_Manager
     - 실제 현장 데이터(잉크잔량, 온도, 압력 등)을 프로그램에서 보여주기 위해 데이터 스케일링 구현
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/SystemStructure.png" width="650" height="486" />
+    - 클래스 다이어그램
+    - <img src="https://github.com/wlghd28/Printing_Q_Manager/blob/main/ClassDiagram.png" width="650" height="294" />
 
 대형 철강기업 D기업과 진행했던 프로젝트로 목표는 끊임없이 이어지는 철판에 원하는 이미지를 인쇄시키는 것이었습니다. 제가 처음 투입됐던 프로젝트이자 지금까지 개발해 오면서 가장 규모가 컸던 프로젝트입니다. 실제로 제가 구현한 프로그램이 현장에서 돌아가는 데 쓰여야 했기 때문에 부담 상당히 많이 됐었습니다.  
 제가 맡았던 개발 부분은 전체적인 시스템 운용을 위한 사용자 GUI 프로그램을 만드는 것.  
@@ -286,6 +288,8 @@ https://github.com/wlghd28/Image_Test_Printer
     - IO 통신
     - 시스템 구조도
     - <img src="https://github.com/wlghd28/Image_Test_Printer/blob/main/SystemStructure.png" width="650" height="433" />
+    - 클래스 다이어그램
+    - <img src="https://github.com/wlghd28/Image_Test_Printer/blob/main/ClassDiagram.png" width="650" height="336" />
   
 일본의 R 사와 함께 했던 프로젝트입니다. 제가 부여받은 개발 내용은 이미지를 테스트하기 위한 프린터 장비를 제어하는 사용자 GUI 프로그램 구현이었습니다.  
 프린터 장비를 제어하는 부분과 이미지 프로세싱에 대한 부분이 전부 들어가야 하는 프로그램이 필요했습니다. 저는 장비 제어의 일부분의 기능과 이미지 프로세싱 쪽 알고리즘을 구현했습니다.  
@@ -306,6 +310,8 @@ https://github.com/wlghd28/Multi_Color
     - 윈도우 어플리케이션 (MFC GUI)
     - [Image Processing](https://github.com/wlghd28/Image_Processing)
     - [GPGPU](https://github.com/wlghd28/GPGPU)
+    - 클래스 다이어그램
+    - <img src="https://github.com/wlghd28/Multi_Color/blob/main/ClassDiagram.png" width="650" height="312" />
 
 대형 철강기업 D 기업과 프로젝트를 하던 중 추가됐던 부분 프로젝트입니다. 개발 내용은 이미지의 색조를 변경하는 프로그램의 속도 성능을, GPGPU를 사용해 개선하는 것이었습니다.  
 기존에 회사에서 쓰던 프로그램은 속도 성능이 실시간으로 돌아가는 현장에서 쓰이기엔 많이 느렸기 때문에 최소 300배 이상은 빠르게 해야 했습니다. 기존 코드를 분석했을 때 프로젝트 특성상 대용량 이미지를 다루기 때문에 CPU 하나만으로는 부족하다고 판단되었고, GPGPU를 활용해야 한다는 결론이 났습니다.  
