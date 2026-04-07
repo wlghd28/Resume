@@ -22,14 +22,14 @@
 ### [1.4. Skills](https://github.com/wlghd28/resume/blob/master/DETAIL.md#14-skills)
 Skill        | Experiences | Careers | Note
 -------------|-------------|---------|-----------------------------------
-C/C++        | 4 년        | 4 년    | 
+C/C++        | 5 년        | 5 년    | 
 Javascript   | 1 년        |         |
 
 ### [1.5. Experiences](https://github.com/wlghd28/resume/blob/master/DETAIL.md#15-experiences)
-  - 프로그래밍 경험: 4 년
-  - 총 경력 54 개월
-    - 정규직: 39 개월
-    - 계약직: 15 개월
+  - 프로그래밍 경험: 5 년
+  - 총 경력 63 개월
+    - 정규직: 59 개월
+    - 계약직: 14 개월
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
