@@ -47,7 +47,7 @@ Company | Entry Date | Leave Date | Form
 ### [2.3. Documentation](https://github.com/wlghd28/resume/blob/master/DETAIL.md#23-documentation)
 프로젝트를 진행하면서 이슈 사항들에 대하여 꾸준히 문서로 정리하며 문서를 작성해 왔습니다.
 
-### [2.4. Self Infroduction]
+### 2.4. Self Infroduction
 [복잡한 문제를 구조적으로 해결하고 성장하는 엔지니어]  
 
 복잡한 문제를 단순히 해결하는 데 그치지 않고, 시스템 전반의 구조를 분석해 근본 원인을 파악하는 방식으로 접근해 왔습니다. 또한 문제 해결 과정에서 얻은 경험을 체계화하여 재사용할 수 있는 지식으로 축적하며, 지속적으로 성장하고 있습니다.
