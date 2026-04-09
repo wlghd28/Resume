@@ -191,7 +191,7 @@ https://github.com/wlghd28/Punching_Machine
  - 사용 언어
     - C/C++
  - 설명
-    - 윈도우  GUI 어플리케이션 (MFC)
+    - 윈도우  GUI 어플리케이션 (MFC, VisualStudio)
     - OpenCV 라이브러리
     - NMC2, NMF 라이브러리
     - IO 통신
@@ -216,7 +216,7 @@ https://github.com/wlghd28/Optical_Switch
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우  GUI 어플리케이션 (QT)
+    - 윈도우  GUI 어플리케이션 (QT, QT Creator)
     - MCU 펌웨어 (STM32, STM32CubeIDE, STM32CubeMX)
     - TCP/IP 통신
     - USB Serial 통신
@@ -246,7 +246,7 @@ STM32, ESP32 MCU에 원격으로 펌웨어 다운로드 하는 시스템
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (QT)
+    - 윈도우 GUI 어플리케이션 (QT, Qt Creator)
     - MCU 펌웨어 (ESP32, platformIO Arduino IDE)
     - WiFi TCP/IP 통신
     - USB Serial 통신
@@ -272,10 +272,10 @@ https://github.com/wlghd28/Printing_Q_Manager
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (MFC)
+    - 윈도우 GUI 어플리케이션 (MFC, VisualStudio)
     - TCP/IP 통신
     - [ActiveX](https://github.com/wlghd28/ActiveX)
-    - IO 통신
+    - IO 통신 (AdamIO)
     - 이미지 프로세싱
     - 멀티스레드
  - 시스템 구조도
@@ -315,7 +315,7 @@ https://github.com/wlghd28/Image_Test_Printer
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (MFC)
+    - 윈도우 GUI 어플리케이션 (MFC, VisualStudio)
     - [이미지 프로세싱](https://github.com/wlghd28/Image_Processing)
     - [디더링](https://github.com/wlghd28/Dithering)
     - [보간법](https://github.com/wlghd28/Interpolation)
@@ -347,7 +347,7 @@ https://github.com/wlghd28/Multi_Color
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (MFC)
+    - 윈도우 GUI 어플리케이션 (MFC, VisualSutdio)
     - [이미지 프로세싱](https://github.com/wlghd28/Image_Processing)
     - [GPGPU](https://github.com/wlghd28/GPGPU)
     - 멀티스레드
@@ -372,13 +372,13 @@ DMFC(Direct Methanol Fuel Cell) 시스템 운용 프로그램
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (QT)
+    - 윈도우 GUI 어플리케이션 (QT, QT Creator)
+    - MCU 펌웨어(ESP32, platformIO Arduino IDE)
     - TCP/IP 통신
     - Serial 통신
     - BLE(Bluetooth) 통신
     - HDLC 프로토콜
     - QCustomPlot 라이브러리
-    - MCU 펌웨어(ESP32, platformIO Arduino IDE)
     - SquareLine Tool (LCD UI 구현)
     - LVGL 라이브러리
  - 시스템 구조도
@@ -413,7 +413,7 @@ https://github.com/wlghd28/Stack_Validator
  - 사용 언어
     - C/C++
  - 기술 사양
-    - 윈도우 GUI 어플리케이션 (QT)
+    - 윈도우 GUI 어플리케이션 (QT, QT Creator)
     - Serial 통신
     - HDLC 프로토콜
     - RS232 통신
