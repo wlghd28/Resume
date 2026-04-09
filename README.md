@@ -89,11 +89,11 @@ Project            | Skills           | Description
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 FreeLancer     | [Punching Machine](https://github.com/wlghd28/resume/blob/master/DETAIL.md#411-Punching-Machine)     | C/C++           | MFC, OpenCV
-FreeLancer     | [Otical Switch](https://github.com/wlghd28/resume/blob/master/DETAIL.md#412-Optical-Switch)     | C/C++           | QT, STM32, ESP8266
+FreeLancer     | [Otical Switch](https://github.com/wlghd28/resume/blob/master/DETAIL.md#412-Optical-Switch)     | C/C++           | QT, STM32
 FreeLancer     | [Remote Update Manager](https://github.com/wlghd28/resume/blob/master/DETAIL.md#413-Remote-Update-Manager)     | C/C++           | QT, ESP32
 PrintLink      | [Iron plate printing system](https://github.com/wlghd28/resume/blob/master/DETAIL.md#421-Iron-plate-printing-system)     | C/C++           | MFC
-PrintLink      | [Image Test Printer](https://github.com/wlghd28/resume/blob/master/DETAIL.md#422-Image-Test-Printer)   | C/C++                 | MFC, Image Processing
-PrintLink      | [Multi Color](https://github.com/wlghd28/resume/blob/master/DETAIL.md#423-Multi-Color)   | C/C++                 | MFC, OpenCL, CUDA
+PrintLink      | [Image Test Printer](https://github.com/wlghd28/resume/blob/master/DETAIL.md#422-Image-Test-Printer)   | C/C++                 | MFC
+PrintLink      | [Multi Color](https://github.com/wlghd28/resume/blob/master/DETAIL.md#423-Multi-Color)   | C/C++                 | MFC
 GaonCell       | [DMFC System](https://github.com/wlghd28/resume/blob/master/DETAIL.md#431-DMFC-System) | C/C++                 | QT, ESP32
 GaonCell       | [Stack Test System](https://github.com/wlghd28/resume/blob/master/DETAIL.md#432-Stack-Test-System)         | C/C++     | QT
 GaonCell       | [Voltage Data Receiver](https://github.com/wlghd28/resume/blob/master/DETAIL.md#433-Voltage-Data-Receiver)     | C           | STM32
