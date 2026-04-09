@@ -255,11 +255,11 @@ STM32, ESP32 MCU에 원격으로 펌웨어 다운로드 하는 시스템
     - SquareLine Studio Tool (LCD UI 구현)
     - LVGL 라이브러리
  - 시스템 구조도
-    - <img src="" width="650" height="419" />
+    - <img src="https://github.com/wlghd28/Remote_Update_Manager/blob/main/SystemStructure.png" width="650" height="433" />
  - 클래스 다이어그램(ESP32)
-    - <img src="" width="650" height="315" />
+    - <img src="https://github.com/wlghd28/Remote_Update_Manager/blob/main/ClassDiagram_LCD.png" width="650" height="422" />
  - 클래스 다이어그램(PC)
-    - <img src="" width="650" height="199" />
+    - <img src="https://github.com/wlghd28/Remote_Update_Manager/blob/main/ClassDiagram_PC.png" width="650" height="262" />
 
 ### 4.2. PrintLink
 #### 4.2.1. Iron plate printing system
