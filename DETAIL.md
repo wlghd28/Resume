@@ -252,6 +252,8 @@ STM32, ESP32 MCU에 원격으로 펌웨어 다운로드 하는 시스템
     - USB Serial 통신
     - 다중 TCP/IP 통신(1:N)
     - 멀티스레드
+    - SquareLine Studio Tool (LCD UI 구현)
+    - LVGL 라이브러리
  - 시스템 구조도
     - <img src="" width="650" height="419" />
  - 클래스 다이어그램(ESP32)
