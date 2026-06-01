@@ -38,6 +38,7 @@
       - [4.3.1. DMFC System](#431-DMFC-System)
       - [4.3.2. Stack Test System](#432-Stack-Test-System)
       - [4.3.3. Voltage Data Receiver](#433-Voltage-Data-Receiver)
+    + [4.4. GigaVis](#44-GigaVis)
 
 
 ## 1. Outline
@@ -74,15 +75,15 @@ Javascript   | 1 년        |         |
 더불어 그간 제가 개발했던 개인 및 상용 프로젝트들에 대한 상세 내역은, 아래 [3. My Projects](#3-my-projects) 및 [4. Commercial Projects](#4-commercial-projects) 단원에 정리해 두었으니, 부디 참고해 주시기 바랍니다.
 
   - 프로그래밍 경험: 5 년
-  - 총 경력 63 개월
-    - 정규직: 48 개월
+  - 총 경력 64 개월
+    - 정규직: 49 개월
     - 계약직: 15 개월
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
-[프린트링크](#42-PrintLink) | 2021-01    | 2022-04    | 계약직
-[가온셀](#43-GaonCell) | 2022-05 | 재직중 | 정규직
-
+[프린트링크](#42-PrintLink) | 2021-01-01 | 2022-04-08 | 계약직
+[가온셀](#43-GaonCell) | 2022-05-01 | 2026-06-12 | 정규직
+[기가비스](#44-GigaVis) | 2026-06-22 | 재직중 | 정규직
 
 
 ## 2. Introduction
@@ -459,5 +460,5 @@ LTC6806 Fuel Cell Monitor로부터 데이터를 읽어오는 프로그램
 성과: 아날로그 데이터를 안정적으로 수집하고 처리할 수 있는 구조를 구현하여, 전압 데이터 측정의 신뢰성과 정확도를 확보했습니다.
 
 
-
+### 4.4. GigaVis
 
