@@ -35,8 +35,7 @@ Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
 [프린트링크](https://github.com/wlghd28/resume/blob/master/DETAIL.md#42-PrintLink) | 2021-01-01 | 2022-04    | 계약직
 [가온셀](https://github.com/wlghd28/resume/blob/master/DETAIL.md#43-GaonCell) | 2022-05-01 | 2026-06-12 | 정규직
-[기가비스]
-()
+기가비스
 | 2022-06-22 | 재직중 | 정규직
 
 ## [2. Introduction](https://github.com/wlghd28/resume/blob/master/DETAIL.md#2-introduction)
