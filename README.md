@@ -27,15 +27,15 @@ Javascript   | 1 년        |         |
 
 ### [1.5. Experiences](https://github.com/wlghd28/resume/blob/master/DETAIL.md#15-experiences)
   - 프로그래밍 경험: 5 년
-  - 총 경력 63 개월
-    - 정규직: 48 개월
+  - 총 경력 64 개월
+    - 정규직: 49 개월
     - 계약직: 15 개월
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
 [프린트링크](https://github.com/wlghd28/resume/blob/master/DETAIL.md#42-PrintLink) | 2021-01-01 | 2022-04    | 계약직
 [가온셀](https://github.com/wlghd28/resume/blob/master/DETAIL.md#43-GaonCell) | 2022-05-01 | 2026-06-12 | 정규직
-기가비스 | 2022-06-22 | 재직중 | 정규직
+[기가비스](#44-GigaVis) | 2026-06-22 | 재직중 | 정규직
 
 ## [2. Introduction](https://github.com/wlghd28/resume/blob/master/DETAIL.md#2-introduction)
 ### [2.1. For a lifetime](https://github.com/wlghd28/resume/blob/master/DETAIL.md#21-for-a-lifetime)
